@@ -1,6 +1,6 @@
 # Máquina: Wgel CTF
 
-**Tryhackme: Wgel CTF
+**Tryhackme: Wgel CTF**
 
 # NMAP
 
